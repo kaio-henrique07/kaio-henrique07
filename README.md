@@ -1,5 +1,8 @@
-## Hi there 👋
+## oi sou Kaio 👋
 
+estudoi na [ALURA](https://www.alura.com.br/)
+
+![](https://media1.tenor.com/m/PKKCAakpBZIAAAAC/neyney-neymar.gif)
 <!--
 **kaio-henrique07/kaio-henrique07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
